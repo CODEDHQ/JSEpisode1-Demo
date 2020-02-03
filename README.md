@@ -118,6 +118,7 @@ Run through the setup steps on the [task](https://warehouse.joincoded.com/assign
 
 ## Installing Prettier on VS Code
 
-1. Command Palette: `CMD+Shift+P`
-2. Select: "Extensions: Install Extensions"
-3. Search for "Prettier", click "Install", and then reload once the installation is complete.
+1. Command Palette: `CMD+Shift+X` || Select: "Extensions: Install Extensions"
+2. Search for "Prettier - Code formatter", click "Install", and then reload once the installation is complete.
+3. Click on the "Manage" icon in the lower left column, and then click "Settings".
+4. Search for `Format` and enable `Format On Save`.
